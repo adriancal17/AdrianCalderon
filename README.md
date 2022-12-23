@@ -6,4 +6,4 @@
   - [osTicket: Walk Through](https://github.com/joshmadakorcc/osticket-)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/acal17/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adriancal17/configure-ad)
